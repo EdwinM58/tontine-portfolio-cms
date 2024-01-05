@@ -1,9 +1,8 @@
-# Sanity Clean Content Studio
+# Sanity CMS for Portfolio Website
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+This repository contains the Sanity CMS configuration for managing content on the portfolio website. Follow the instructions below to set up Sanity Studio on your local machine.
 
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+## Managing Content
+- Log in using the provided credentials.
+- Use Sanity Studio to manage and modify website content.
+- Rearrange sections, add new documents, and update information to see real-time changes on the NextJS website.
